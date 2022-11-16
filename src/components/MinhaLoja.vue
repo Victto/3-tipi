@@ -6,6 +6,7 @@
 import { defineComponent } from "vue";
 import pesquisar from "./Loja/pesquisar.vue";
 
+
 export default defineComponent({
   name: "MinhaLoja",
   components: {
